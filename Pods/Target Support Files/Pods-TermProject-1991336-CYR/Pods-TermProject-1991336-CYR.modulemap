@@ -1,0 +1,6 @@
+framework module Pods_TermProject_1991336_CYR {
+  umbrella header "Pods-TermProject-1991336-CYR-umbrella.h"
+
+  export *
+  module * { export * }
+}
